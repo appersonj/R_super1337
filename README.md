@@ -1,4 +1,3 @@
-# repo-template-r
 # R_super1337
 
 ## ⨕υρ∈ℝᚔ⦜ℇℇ⫪ idea in R
