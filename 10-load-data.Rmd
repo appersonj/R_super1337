@@ -14,3 +14,30 @@ library(janitor)
 library(assertr)
 ```
 
+
+
+```{r}
+
+library(imager)
+# Note - the suggested way of loading image data 
+# does not work
+#
+#
+fpath <- './unicode/unicode_data/Basic_Latin/4e.jpg'
+im4e <- load.image(fpath)
+plot(im)
+```
+```{r}
+# fpath %>% 
+#    verify("" != fpath)
+
+```
+
+
+
+```{r}
+library(DataExplorer)
+```
+
+
+
